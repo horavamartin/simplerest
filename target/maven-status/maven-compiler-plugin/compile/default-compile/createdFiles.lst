@@ -1,0 +1,16 @@
+net/horava/spring/guides/simplerest/bitstamp/BitStampScheduledTasks.class
+net/horava/spring/guides/simplerest/GreetingResponse.class
+net/horava/spring/guides/simplerest/bitstamp/controller/dto/BitStampTickerImportDto.class
+net/horava/spring/guides/simplerest/bitstamp/controller/dto/BitStampImportDtoConverter.class
+net/horava/spring/guides/simplerest/Greeting.class
+net/horava/spring/guides/simplerest/bitstamp/BitStampManager.class
+net/horava/spring/guides/simplerest/bitstamp/entity/BitStampTicker.class
+net/horava/spring/guides/simplerest/Application.class
+net/horava/spring/guides/simplerest/bitstamp/controller/BitStampController.class
+net/horava/spring/guides/simplerest/Dao/Customer.class
+net/horava/spring/guides/simplerest/bitstamp/controller/dto/BitStampTickerDto.class
+net/horava/spring/guides/simplerest/bitstamp/controller/BitStampImportController.class
+net/horava/spring/guides/simplerest/scheduled/GeneralScheduledTasks.class
+net/horava/spring/guides/simplerest/bitstamp/controller/dto/BitStampDtoConverter.class
+net/horava/spring/guides/simplerest/GreetingController.class
+net/horava/spring/guides/simplerest/bitstamp/entity/BitStampDao.class

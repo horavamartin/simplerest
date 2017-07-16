@@ -1,0 +1,16 @@
+/home/martin/Projects/SpringTutorials/workspaces/simplerest/src/main/java/net/horava/spring/guides/simplerest/bitstamp/entity/BitStampDao.java
+/home/martin/Projects/SpringTutorials/workspaces/simplerest/src/main/java/net/horava/spring/guides/simplerest/Application.java
+/home/martin/Projects/SpringTutorials/workspaces/simplerest/src/main/java/net/horava/spring/guides/simplerest/bitstamp/controller/dto/BitStampTickerDto.java
+/home/martin/Projects/SpringTutorials/workspaces/simplerest/src/main/java/net/horava/spring/guides/simplerest/Greeting.java
+/home/martin/Projects/SpringTutorials/workspaces/simplerest/src/main/java/net/horava/spring/guides/simplerest/bitstamp/BitStampScheduledTasks.java
+/home/martin/Projects/SpringTutorials/workspaces/simplerest/src/main/java/net/horava/spring/guides/simplerest/bitstamp/BitStampManager.java
+/home/martin/Projects/SpringTutorials/workspaces/simplerest/src/main/java/net/horava/spring/guides/simplerest/bitstamp/controller/BitStampController.java
+/home/martin/Projects/SpringTutorials/workspaces/simplerest/src/main/java/net/horava/spring/guides/simplerest/bitstamp/controller/BitStampImportController.java
+/home/martin/Projects/SpringTutorials/workspaces/simplerest/src/main/java/net/horava/spring/guides/simplerest/GreetingController.java
+/home/martin/Projects/SpringTutorials/workspaces/simplerest/src/main/java/net/horava/spring/guides/simplerest/Dao/Customer.java
+/home/martin/Projects/SpringTutorials/workspaces/simplerest/src/main/java/net/horava/spring/guides/simplerest/scheduled/GeneralScheduledTasks.java
+/home/martin/Projects/SpringTutorials/workspaces/simplerest/src/main/java/net/horava/spring/guides/simplerest/bitstamp/controller/dto/BitStampImportDtoConverter.java
+/home/martin/Projects/SpringTutorials/workspaces/simplerest/src/main/java/net/horava/spring/guides/simplerest/GreetingResponse.java
+/home/martin/Projects/SpringTutorials/workspaces/simplerest/src/main/java/net/horava/spring/guides/simplerest/bitstamp/controller/dto/BitStampTickerImportDto.java
+/home/martin/Projects/SpringTutorials/workspaces/simplerest/src/main/java/net/horava/spring/guides/simplerest/bitstamp/entity/BitStampTicker.java
+/home/martin/Projects/SpringTutorials/workspaces/simplerest/src/main/java/net/horava/spring/guides/simplerest/bitstamp/controller/dto/BitStampDtoConverter.java
